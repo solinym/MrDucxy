@@ -5,3 +5,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrducxy&theme=material-palenight&layout=compact" />
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrducxy&theme=material-palenight" />
+</a>
