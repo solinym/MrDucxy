@@ -1,3 +1,7 @@
+### Ducxy (Full Stack Developer)
+C#, JavaScript, Java, C
+
+
 ### General Stats
 
 <a href="#">
