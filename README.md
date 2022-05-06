@@ -17,5 +17,5 @@ C#, JavaScript, Java, C
 
 ### Pinned Repository
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrducxy&repo=Chip8.JS-V1&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrducxy&repo=XBTools&theme=material-palenight" />
 </a>
