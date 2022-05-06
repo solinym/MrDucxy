@@ -16,6 +16,6 @@ C#, JavaScript, Java, C
 </br>
 
 ### Pinned Repository
-<a href="#">
+<a href="https://github.com/MrDucxy/XBTools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrducxy&repo=XBTools&theme=material-palenight" />
 </a>
