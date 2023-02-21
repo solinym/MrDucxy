@@ -1,21 +1,11 @@
-### Ducxy (Full Stack Developer)
-C#, JavaScript, Java, C
 
+# Ducxy
+Hello! My name is Ducxy. I am a full stack developer who is passionate about computers, programming, reverse engineering and cybersecurity. I am always open to learning something new!
 
-### General Stats
+**Current Projects**
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrducxy&count_private=true&show_icons=true&theme=material-palenight" />
-</a>
-</br>
-
-### Top Languages
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrducxy&theme=material-palenight&layout=compact" />
-</a>
-</br>
-
-### Pinned Repository
-<a href="https://github.com/MrDucxy/XBTools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrducxy&repo=XBTools&theme=material-palenight" />
-</a>
+ - PS4ClassicUI - Bringing back the pre 4.00 UI to jailbroken PS4s above 4.00.
+ - CustomShell - Personalize your jailbroken PS4's ShellUI (Wave, Animations, Assets, Sounds, Etc.)
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrducxy&count_private=true&show_icons=true&theme=github_dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrducxy&theme=github_dark&layout=compact" />
