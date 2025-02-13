@@ -14,9 +14,6 @@ Hello! My name is solinym. I am a full stack developer who is passionate about c
 ---
 **Want to get in touch?**
 <p align="left">
-<img src="https://dcbadge.vercel.app/api/shield/299263276028788737">
-<a href="https://discord.gg/mXRx6TTrzV" rel="nofollow">
-<img src="https://dcbadge.vercel.app/api/server/mXRx6TTrzV">
 </a>
 <a href="https://twitter.com/realducxy" rel="nofollow">
 	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
