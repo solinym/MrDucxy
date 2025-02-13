@@ -1,10 +1,10 @@
 
-# Ducxy
-Hello! My name is Ducxy. I am a full stack developer who is passionate about computers, programming, reverse engineering and cybersecurity. I am always open to learning something new!
+# solinym
+Hello! My name is solinym. I am a full stack developer who is passionate about computers, programming, reverse engineering and cybersecurity. I am always open to learning something new!
 
 **Current Projects**
 
- - CustomShell - Personalize your jailbroken PS4's ShellUI (Wave, Animations, Assets, Sounds, Etc.)
+ - Eclipse (Content Warning Cheat)
 ---
 **My GitHub Stats (Public)**
 
